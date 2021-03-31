@@ -1,5 +1,27 @@
-ca75a8a Pruebas changelog
-142a6cc Add a changelog
-b54f799 Erase AO91 & AO92
-efbce89 Primera actualizacion
-c0d9e87 first commit
+Author: Pedro pedrobarebero92@gmail.com 
+ Date: 2021-03-31T14:52:16+02:00 
+ Commit: Add  DELFI-C3 to 'DATOS' module 
+
+Author: Pedro pedrobarebero92@gmail.com 
+ Date: 2021-03-31T13:47:05+02:00 
+ Commit: Changelog format 
+
+Author: Pedro pedrobarebero92@gmail.com 
+ Date: 2021-03-31T13:31:57+02:00 
+ Commit: Pruebas changelog 
+
+Author: Pedro pedrobarebero92@gmail.com 
+ Date: 2021-03-31T13:28:53+02:00 
+ Commit: Add a changelog 
+
+Author: Pedro pedrobarebero92@gmail.com 
+ Date: 2021-03-31T13:12:47+02:00 
+ Commit: Erase AO91 & AO92 
+
+Author: Pedro pedrobarebero92@gmail.com 
+ Date: 2021-03-31T13:11:30+02:00 
+ Commit: Primera actualizacion 
+
+Author: Pedro Barbero pedrobarbero92@gmail.com 
+ Date: 2021-03-26T13:15:06+01:00 
+ Commit: first commit 
